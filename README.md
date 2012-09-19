@@ -14,6 +14,7 @@ The usage is very simple.
 
 ## SplashScreen ##
 
+Brief description here
 
 ### API ###
 
