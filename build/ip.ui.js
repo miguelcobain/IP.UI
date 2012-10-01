@@ -360,8 +360,6 @@ define('splashscreen',[],function() {
 		if(typeof(this.options.onStart) === 'function'){
 			this.options.onStart();
 		}
-		
-		console.log('Splash Screen','Started.');
 	};
 	
 	/*
@@ -395,7 +393,6 @@ define('splashscreen',[],function() {
 		if(typeof(this.options.onEnd) === 'function'){
 			this.options.onEnd();
 		}
-		console.log('End.')
 	};
 	
 	return SplashScreen;

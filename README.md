@@ -8,7 +8,7 @@ The usage is very simple.
 
 1. Download the built javascript file from the `build/` directory.
 2. Include it in your HTML page (or whatever javascript dependency manager you're using).
-3. The `IP.UI` namespace is created for you, and you can start using it. See examples below.
+3. The `IP.UI` namespace is created for you, and you can start using its components. See examples below.
 
 # Component Overview #
 
@@ -35,5 +35,6 @@ After you [install r.js](http://requirejs.org/docs/optimization.html#download), 
 The built javascript file should appear in the `build/` directory.
 
 # Future Work #
-
-- Add more components.
+- SplashScreen
+	- add support for maxTime
+- More components
